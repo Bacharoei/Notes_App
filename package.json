@@ -1,0 +1,25 @@
+{
+  "name": "note_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bacharoei/note_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bacharoei/note_app/issues"
+  },
+  "homepage": "https://github.com/Bacharoei/note_app#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "nodemon": "^2.0.2",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}
